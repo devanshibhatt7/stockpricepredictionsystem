@@ -8,7 +8,7 @@ high accuracy. Stock Price Prediction using machine learning helps you discover 
 on an exchange. The stock market appears in the news every day. You hear about it every time it reaches a new high or a new low. In this report, we will 
 see if there is a possibility of devising a project which will predict stock price with a less percentage of error.
 
-SOFTWARE SPECIFICATIONS
+SOFTWARE SPECIFICATIONS : 
 Operating system: Linux- Ubuntu 16.04 to 17.10, or Windows 7 to 10.
 You have to install Python 3.6 and related packages.
 Pystan
